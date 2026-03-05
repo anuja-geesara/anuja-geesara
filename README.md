@@ -10,14 +10,14 @@ I am a **Software Engineering student at the Open University of Sri Lanka (OUSL)
 
 ### Tech Stack:
 **Languages & Frontend:**
-Java
-JavaScript
-React
-HTML5
-CSS3
+Java,
+JavaScript,
+React,
+HTML5,
+CSS3,
 
 **Tools & Others:**
-Git
+Git,
 VS Code
 
 ###  What I'm currently working on:
