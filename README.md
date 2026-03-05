@@ -17,7 +17,7 @@ HTML5,
 CSS3,
 
 **Tools & Others:**
-Git,
+Git
 VS Code
 
 ###  What I'm currently working on:
