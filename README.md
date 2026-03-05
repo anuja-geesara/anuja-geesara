@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Anuja Geesara! 
 
-<!--
-**anuja-geesara/anuja-geesara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineering student at the Open University of Sri Lanka (OUSL)** and a **Freelance Developer**. I love building functional, scalable, and user-friendly web applications.
 
-Here are some ideas to get you started:
+### About Me:
+- Currently pursuing my degree in Software Engineering at **OUSL**.
+- Working as a **Freelancer**, helping clients bring their ideas to life.
+- Based in **Sri Lanka**.
+- I'm constantly exploring new ways to optimize code and UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack:
+**Languages & Frontend:**
+Java
+JavaScript
+React
+HTML5
+CSS3
+
+**Tools & Others:**
+Git
+VS Code
+
+###  What I'm currently working on:
+- Developing custom web solutions for freelance clients using **React** and **Java**.
+- Mastering advanced **Software Architecture** patterns.
+- Building a portfolio of open-source projects.
